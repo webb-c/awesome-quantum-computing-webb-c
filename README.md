@@ -46,7 +46,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [Quantum Computing UK](https://quantumcomputinguk.org/) - Free Qiskit tutorials and code repository.
 - [ ] [Quantum Computing for the Very Curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
 - [ ] [Quantum Computing with Amazon Braket SDK](https://www.manning.com/liveprojectseries/quantum-computing-with-amazon-braket-sdk-ser) - Manning liveProject series that introduces Braket API and guides the learner through implementation of several simple algorithms.
-- [ ] [Quantum Computing with Microsoft QDK](https://www.manning.com/liveprojectseries/quantum-computing-with-five-projects) - [ ] Manning liveProject series that guides the learner through implementation of a variety of protocols and algorithms using Microsoft QDK.
+- [ ] [Quantum Computing with Microsoft QDK](https://www.manning.com/liveprojectseries/quantum-computing-with-five-projects) - Manning liveProject series that guides the learner through implementation of a variety of protocols and algorithms using Microsoft QDK.
 - [ ] [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - Easy to read knowledge base, rich of basic Quantum Computing concepts.
 - [ ] [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 - [ ] [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
@@ -83,7 +83,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [The Building Blocks of a Quantum Computer: Part 2 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/)
 - [ ] [Quantum Cryptography - TU Delft](https://ocw.tudelft.nl/courses/quantum-cryptography/)
 - [ ] [Introduction to Quantum Information](https://zhenyucai.com/post/intro_to_qi/)
-- [ ] [Quantum Computing for Everyone -- Part 1](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e) ([Part 2](https://www.youtube.com/playlist?list=PLfOgkuiMs5qB-0J07mphWZ19j9Gll33ZU))
+- [ ] [Quantum Computing for Everyone - Part 1](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e) ([Part 2](https://www.youtube.com/playlist?list=PLfOgkuiMs5qB-0J07mphWZ19j9Gll33ZU))
 - [ ] [Quantum Computer Systems – UChicago](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
 - [ ] [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
 
