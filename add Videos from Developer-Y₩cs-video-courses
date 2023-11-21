@@ -55,6 +55,40 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit) - Very accessible computation/programming oriented tutorials. It begins from basics of matrices up to grover's algorithm. There are also accompanying videos which explain the tutorials.
 - [ ] [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
+
+## 📽️ Videos
+
+- [ ] [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
+- [ ] [Circuit Sessions](https://www.youtube.com/watch?v=Omv-bPvQ3E8&list=PLOFEBzvs-VvrRlVz7wqaqmaMZj_ZK2Afe) - Qiskit series exploring the value and use of quantum circuits through a lecture series by academics and industry researchers.
+- [ ] [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
+- [ ] [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
+- [ ] [🌟 Ph/CS 219A at Caltech: Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) - Lectures for the first term of a course on quantum computation taught at Caltech in Fall 2020, by John Preskill.
+- [ ] [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
+- [ ] [🌟 Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
+- [ ] [🌟 Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
+- [ ] [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation. 
+- [ ] [Quantum Computing Seminar Series](https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2) - Qiskit series discussing recent research.
+- [ ] [Quantum Mechanics by PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) - YouTube playlist targeting a wide audience with generic concepts around Quantum Mechanics and Computing. 
+- [ ] [Quantum Mechanics and Quantum Computation - Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
+- [ ] [Introduction to quantum computing course 2022 - NYU](https://www.youtube.com/playlist?list=PLo0Vs5tDeRLRIPcJ83SN91M-asGuaa1AD)
+- [ ] [Phys 1470 - Foundations of Quantum Computing and Quantum Information - U of Pittsburgh](https://www.youtube.com/playlist?list=PL9KDUYiMK3D5etNeur9HocwcAcfcDtArw)
+- [ ] [Introduction to Quantum Computing From a Layperson to a Programmer in 30 Steps (EE225 SJSU)](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
+- [ ] [Quantum Computing Hardware and Architecture (EE274 SJSU)](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
+- [ ] [Quantum Physics for Non-Physicists 2021 - ETH Zurich](https://www.youtube.com/playlist?list=PLmE1-ewBrbkiOFq_vMXAww4GDMxDAB3pI) ([2020](https://www.youtube.com/playlist?list=PLmE1-ewBrbkiKoYQU4FawveQfhWU_4MkX))
+- [ ] [Introduction to Quantum Computing and Quantum Hardware - Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+- [ ] [Understanding Quantum Information and Computation - Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO)
+- [ ] [Lectures in Quantum Computation and Quantum Information (IIT Madras)](https://www.youtube.com/playlist?list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE)
+- [ ] [Quantum Information and Computing by Prof. D.K. Ghosh](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5)
+- [ ] [Quantum Computing by Prof. Debabrata Goswami](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj7Fs6jyzYa83HErSrpXgPQ)
+- [ ] [The Building Blocks of a Quantum Computer: Part 1 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/)
+- [ ] [The Building Blocks of a Quantum Computer: Part 2 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/)
+- [ ] [Quantum Cryptography - TU Delft](https://ocw.tudelft.nl/courses/quantum-cryptography/)
+- [ ] [Introduction to Quantum Information](https://zhenyucai.com/post/intro_to_qi/)
+- [ ] [Quantum Computing for Everyone -- Part 1](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e) ([Part 2](https://www.youtube.com/playlist?list=PLfOgkuiMs5qB-0J07mphWZ19j9Gll33ZU))
+- [ ] [Quantum Computer Systems – UChicago](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
+- [ ] [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
+
+
 ## @ MOOCs
 
 - [ ] [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
@@ -71,6 +105,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - Same professor of the previous course, this time more focused on quantum concepts rather than math.
 - [ ] [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [ ] [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
+
 
 ## 🛠️ Development Tools
 
@@ -105,6 +140,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
+
 ## 🖊️ Blogs
 
 - [ ] [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
@@ -124,7 +160,9 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
 - [ ] [xa0](https://blog.xa0.de/list) - New research and deep dives into quantum computing optimization.
 
+
 ## 📚 Books
+
 - [ ] [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
 - [ ] [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [ ] [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
@@ -145,23 +183,11 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 
 ## 🧪 Popular Science
+
 - [ ] [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
 - [ ] [Seth Lloyd. Programming the Universe_ A Quantum Computer Scientist Takes on the Cosmos](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist-ebook/dp/B000GCFBP6) - What if the universe is a giant quantum computer? It takes the reader throuogh a journey of computational model of the universe and its implications on physics.
 - [ ] [The Fabric of Reality: The Science of Parallel Universes and Its Implications](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X) - It is of philosophical spirit, about revealing a unified fabric of reality explanation.
 
-## 📽️ Videos
-
-- [ ] [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
-- [ ] [Circuit Sessions](https://www.youtube.com/watch?v=Omv-bPvQ3E8&list=PLOFEBzvs-VvrRlVz7wqaqmaMZj_ZK2Afe) - Qiskit series exploring the value and use of quantum circuits through a lecture series by academics and industry researchers.
-- [ ] [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
-- [ ] [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
-- [ ] [Ph/CS 219A at Caltech: Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) - Lectures for the first term of a course on quantum computation taught at Caltech in Fall 2020, by John Preskill.
-- [ ] [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
-- [ ] [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
-- [ ] [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
-- [ ] [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation. 
-- [ ] [Quantum Computing Seminar Series](https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2) - Qiskit series discussing recent research.
-- [ ] [Quantum Mechanics by PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) - YouTube playlist targeting a wide audience with generic concepts around Quantum Mechanics and Computing. 
 
 ## 💬 Community
 
