@@ -2,24 +2,24 @@
 
 [<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
 
-[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
+[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them.
 
-This is a curated list of up-to-date resources on learning about and developing on quantum computers. The goal is to build a categorised community-driven collection of up to date, high quality resources. 
+This is a curated list of up-to-date resources on learning about and developing on quantum computers. The goal is to build a categorised community-driven collection of up to date, high quality resources.
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
 ## Contents
 
-- [🚀 Learning](#learning)
-- [@ MOOCs](#moocs)
-- [🛠️ Development Tools](#development-tools)
-- [🖊️ Blogs](#blogs)
-- [🧪 Popular Science](#popular-science)
-- [📚 Books](#books)
-- [📽️ Videos](#videos)
-- [💬 Community](#community)
-- [🎧 Podcasts](#podcasts)
-- [🇰🇷 Content in Non-English Languages: Korean](#content-in-non-english-languages)
+- [🚀 Learning](#🚀-learning)
+- [📽️ Videos](#📽️-videos)
+- [🌱 MOOCs](#moocs)
+- [📚 Books](#📚-books)
+- [🖊️ Blogs](#🖊️-blogs)
+- [🧪 Popular Science](#🧪-popular-science)
+- [🎧 Podcasts](#🎧-podcasts)
+- [🛠️ Development Tools](#🛠️-development-tools)
+- [💬 Community](#💬-community)
+- [🇰🇷 Contents in Korean](#🇰🇷-contents-in-korean)
 
 For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
 
@@ -38,7 +38,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [ ] [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 - [ ] [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
-- [ ] [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
+- [ ] [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms.
 - [ ] [Quantum Algorithms](https://quantumalgorithms.org/) - Open-source set of lectures notes on quantum algorithms, with a focus on machine learning and data analysis.
 - [ ] [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
 - [ ] [Quantum Computing Foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/) - Microsoft Learn learning path covering Azure Quantum and elements of quantum computing.
@@ -55,7 +55,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit) - Very accessible computation/programming oriented tutorials. It begins from basics of matrices up to grover's algorithm. There are also accompanying videos which explain the tutorials.
 - [ ] [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
-
 ## 📽️ Videos
 
 - [ ] [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
@@ -66,9 +65,9 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 - [ ] [🌟 Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
 - [ ] [🌟 Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
-- [ ] [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation. 
+- [ ] [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation.
 - [ ] [Quantum Computing Seminar Series](https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2) - Qiskit series discussing recent research.
-- [ ] [Quantum Mechanics by PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) - YouTube playlist targeting a wide audience with generic concepts around Quantum Mechanics and Computing. 
+- [ ] [Quantum Mechanics by PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) - YouTube playlist targeting a wide audience with generic concepts around Quantum Mechanics and Computing.
 - [ ] [Quantum Mechanics and Quantum Computation - Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
 - [ ] [Introduction to quantum computing course 2022 - NYU](https://www.youtube.com/playlist?list=PLo0Vs5tDeRLRIPcJ83SN91M-asGuaa1AD)
 - [ ] [Phys 1470 - Foundations of Quantum Computing and Quantum Information - U of Pittsburgh](https://www.youtube.com/playlist?list=PL9KDUYiMK3D5etNeur9HocwcAcfcDtArw)
@@ -88,8 +87,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [Quantum Computer Systems – UChicago](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
 - [ ] [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
 
-
-## @ MOOCs
+## 🌱 MOOCs
 
 - [ ] [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 - [ ] [Introduction to Quantum Information Science](https://www.arturekert.org/iqis) - “Introduction to Quantum Information” by Professor Artur Ekert at the University of Oxford.
@@ -100,12 +98,62 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [ ] [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - Learn how quantum communication provides security that is guaranteed by the laws of nature.
 - [ ] [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation.
 - [ ] [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - Learn about the benefits quantum technologies can provide to machine learning.
-- [ ] [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
+- [ ] [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental principles of quantum mechanics.
 - [ ] [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - A subtle introduction to computation, the math behind it and its quantum counterparts followed by in-depth discussion of a few quantum algorithms.
 - [ ] [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - Same professor of the previous course, this time more focused on quantum concepts rather than math.
 - [ ] [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [ ] [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
 
+## 📚 Books
+
+- [ ] [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
+- [ ] [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
+- [ ] [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
+- [ ] [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/) - Introductory quantum computing textbook. The only prerequisite is trigonometry, and it teaches the math along the way.
+- [ ] [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
+- [ ] [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
+- [ ] [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
+- [ ] [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) - Hands-on introduction to quantum computing that focuses on concepts and programming examples (in multiple languages).
+- [ ] [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
+- [ ] [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
+- [ ] [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
+- [ ] [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
+- [ ] [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
+- [ ] [Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535) - Introduction into topics such as qubits, entanglement, and quantum teleportation for the general reader.
+- [ ] [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
+- [ ] [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
+- [ ] [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which provides a 360 degree approach of quantum technologies encompassing all dimensions.
+
+## 🖊️ Blogs
+
+- [ ] [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
+- [ ] [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
+- [ ] [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - Quantum algorithms explained to data scientists with visualisations.
+- [ ] [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
+- [ ] [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
+- [ ] [Musty Thoughts](http://mustythoughts.com) - Personal blog of Michał Stęchły, includes many articles for people starting to learn about quantum computing.
+- [ ] [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
+- [ ] [Quantumfy](https://quantumfyed.com/) - Snippets on the latest quantum computing news and quantum infographics.
+- [ ] [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
+- [ ] [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
+- [ ] [Quantum Zeitgeist](https://quantumzeitgeist.com/) - Covers the latest news in quantum computing as well as QC companies and careers.
+- [ ] [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates.
+- [ ] [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
+- [ ] [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware.
+- [ ] [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
+- [ ] [xa0](https://blog.xa0.de/list) - New research and deep dives into quantum computing optimization.
+
+## 🧪 Popular Science
+
+- [ ] [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
+- [ ] [Seth Lloyd. Programming the Universe\_ A Quantum Computer Scientist Takes on the Cosmos](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist-ebook/dp/B000GCFBP6) - What if the universe is a giant quantum computer? It takes the reader throuogh a journey of computational model of the universe and its implications on physics.
+- [ ] [The Fabric of Reality: The Science of Parallel Universes and Its Implications](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X) - It is of philosophical spirit, about revealing a unified fabric of reality explanation.
+
+## 🎧 Podcasts
+
+- [ ] [Meet the meQuanics](https://soundcloud.com/mequanics) - Interviews with key quantum computing figures, aimed at the lay person.
+- [ ] [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
+- [ ] [The Qubit Guy's Podcast](https://www.classiq.io/insights#podcasts) - Podcast by Yuval Boger from [Classiq Technologies](https://www.classiq.io) featuring thought leaders from the quantum computing industry.
 
 ## 🛠️ Development Tools
 
@@ -140,61 +188,12 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
-
-## 🖊️ Blogs
-
-- [ ] [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
-- [ ] [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
-- [ ] [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - Quantum algorithms explained to data scientists with visualisations.
-- [ ] [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
-- [ ] [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
-- [ ] [Musty Thoughts](http://mustythoughts.com) - Personal blog of Michał Stęchły, includes many articles for people starting to learn about quantum computing.
-- [ ] [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
-- [ ] [Quantumfy](https://quantumfyed.com/) - Snippets on the latest quantum computing news and quantum infographics.
-- [ ] [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
-- [ ] [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
-- [ ] [Quantum Zeitgeist](https://quantumzeitgeist.com/) - Covers the latest news in quantum computing as well as QC companies and careers. 
-- [ ] [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates. 
-- [ ] [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
-- [ ] [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware. 
-- [ ] [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
-- [ ] [xa0](https://blog.xa0.de/list) - New research and deep dives into quantum computing optimization.
-
-
-## 📚 Books
-
-- [ ] [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/) - Strikes an excellent balance between accessiblity and mathematical rigour. It is suitable for undergraduate students.
-- [ ] [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
-- [ ] [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
-- [ ] [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/) - Introductory quantum computing textbook. The only prerequisite is trigonometry, and it teaches the math along the way.
-- [ ] [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
-- [ ] [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
-- [ ] [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - Easy to advanced quantum computing and information problems with detailed solutions.
-- [ ] [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) - Hands-on introduction to quantum computing that focuses on concepts and programming examples (in multiple languages).
-- [ ] [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
-- [ ] [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
-- [ ] [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) - Explains quantum computing with only basic college maths knowledge needed.
-- [ ] [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) - Conversational approach to explaining quantum computing with worked solutions.
-- [ ] [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) - Quantum computing explained using an approach accessible to undergraduate computer science students.
-- [ ] [Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535) - Introduction into topics such as qubits, entanglement, and quantum teleportation for the general reader.
-- [ ] [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - Freely available quantum computing textbook aimed at high school students, undergraduate students and the general public.
-- [ ] [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
-- [ ] [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
-
-
-## 🧪 Popular Science
-
-- [ ] [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565) - A cute introduction to quantum computing and computational complexity theory. It is intended for the widest possible target audience, and contains some topics of relevance to philosophy.
-- [ ] [Seth Lloyd. Programming the Universe_ A Quantum Computer Scientist Takes on the Cosmos](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist-ebook/dp/B000GCFBP6) - What if the universe is a giant quantum computer? It takes the reader throuogh a journey of computational model of the universe and its implications on physics.
-- [ ] [The Fabric of Reality: The Science of Parallel Universes and Its Implications](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X) - It is of philosophical spirit, about revealing a unified fabric of reality explanation.
-
-
 ## 💬 Community
 
-- [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum. 
+- [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum.
 - [IBM Q Community](https://community.qiskit.org/) - IBM Q Community page with list of upcoming events and latest programs.
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
-- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information. 
+- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information.
 - [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
@@ -205,15 +204,9 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) - Slack Channel for Rigetti and quantum computing discussions.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
-## 🎧 Podcasts
+## 🇰🇷 Contents in Korean
 
-- [ ] [Meet the meQuanics](https://soundcloud.com/mequanics) - Interviews with key quantum computing figures, aimed at the lay person.
-- [ ] [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Podcast by Ethan Hansen covering three main topics: the basics of quantum computing, interviews and the latest news.
-- [ ] [The Qubit Guy's Podcast](https://www.classiq.io/insights#podcasts) - Podcast by Yuval Boger from [Classiq Technologies](https://www.classiq.io) featuring thought leaders from the quantum computing industry.
-
-## 🇰🇷 Content in Non-English Languages
-
-- 
+- [ ] [2023년 1학기 양자 컴퓨팅 및 정보의 기초 - 서울대학교 컴퓨터공학부 김태현 교수](https://youtube.com/playlist?list=PLv_H0-ClHq6y57O2K6WerynmOVJTkCSq_&feature=shared)
 
 ## License
 
