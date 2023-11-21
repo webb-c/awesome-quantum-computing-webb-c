@@ -207,6 +207,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## 🇰🇷 Contents in Korean
 
 - [ ] [2023년 1학기 양자 컴퓨팅 및 정보의 기초 - 서울대학교 컴퓨터공학부 김태현 교수](https://youtube.com/playlist?list=PLv_H0-ClHq6y57O2K6WerynmOVJTkCSq_&feature=shared)
+- [ ] [Quantum Neural Network Theory and Applications - 고려대학교 김중헌 교수](https://youtube.com/playlist?list=PLalDxVXf3NHfWW0bVgZp6T5SFofgPam5T&feature=shared)
 
 ## License
 
